@@ -33,7 +33,7 @@ function App() {
   return (
     <div>
       <h3>
-        오늘 /공부할꺼
+        오늘 ///공부할꺼
         <br />
         (feat. 집가기전에 반드시!!)
       </h3>
